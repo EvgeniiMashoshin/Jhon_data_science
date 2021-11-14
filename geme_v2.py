@@ -56,6 +56,5 @@ if __name__ == "__main__":
     # RUN
     score_game(random_predict)
     
-    # print
     
     
